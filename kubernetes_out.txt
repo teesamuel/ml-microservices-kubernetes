@@ -1,0 +1,13 @@
+NAME                          READY   STATUS    RESTARTS      AGE
+devops-api-6748bd4b55-8fvcw   1/1     Running   1 (30m ago)   16h
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+
+
+Prediction test
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
